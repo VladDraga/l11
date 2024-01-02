@@ -1,0 +1,10 @@
+
+.post-img{
+    width: 320px;
+    height: 250px;
+    border: 2px red;
+    border-style: dashed;
+    display: block;
+    padding: 15px 10px 20px 10px; 
+    margin-bottom: 30px;   
+}
